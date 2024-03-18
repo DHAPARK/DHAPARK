@@ -8,9 +8,9 @@
 - 👯 저는 [오프라인 커뮤니티와 해커톤 대회]에 관심이 많습니다.
 - 📫 연락 방법: [zerosugarcoke@naver.com]
 
-## AI 유튜브 쇼츠 영상 자동 제작
-- [개발/운영 중인 웹 서비스](https://easybookreport.swygbro.com/#google_vignette)
-
+## 개발/운영 중인 웹 서비스
+- [AI 유튜브 쇼츠 영상 자동 제작](https://easybookreport.swygbro.com/#google_vignette)
+- [네이버 블로그](https://blog.naver.com/zerosugarcoke)
 
 ## Skills
 
