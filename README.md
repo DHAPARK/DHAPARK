@@ -45,5 +45,5 @@
 ![AWS SNS](https://img.shields.io/badge/-AWS%20SNS-FF9900?style=flat-square&logo=amazon-sns&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 
-## 프로젝트
-[![Self Introduce Hompage](https://dhparkland.site)](개인 홈페이지 링크)
+## My Homepage
+- [Self Introduce Homepage](https://dhparkland.site)
