@@ -11,8 +11,9 @@
 ## 개발/운영 중인 웹 서비스
 - [AI 유튜브 쇼츠 영상 자동 제작](https://easybookreport.swygbro.com/#google_vignette)
 - [네이버 블로그](https://blog.naver.com/zerosugarcoke)
-
-## Skills
+- [소개 홈페이지](https://dhparkland.site)
+  
+### Skills
 
 ## Backend
 
@@ -50,8 +51,3 @@
 ![AWS SQS](https://img.shields.io/badge/-AWS%20SQS-FF9900?style=flat-square&logo=amazon-sqs&logoColor=white)
 ![AWS SNS](https://img.shields.io/badge/-AWS%20SNS-FF9900?style=flat-square&logo=amazon-sns&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-
-
-
-## My Homepage
-- [Self Introduce Homepage](https://dhparkland.site)
