@@ -1,12 +1,20 @@
 # 환영합니다! 👋
 
-## 박도현 _ (현)![image](https://github.com/DHAPARK/DHAPARK/assets/37052379/b7bbb21b-6858-48f1-bf1e-765eca3cff55) Korea Backend Dev
+## 박도현
+(현)![image](https://github.com/DHAPARK/DHAPARK/assets/37052379/b7bbb21b-6858-48f1-bf1e-765eca3cff55) Korea Backend Dev
+(전) 한국일보사 FullStack Dev
 
 안녕하세요! 저는 [박도현]이고, 컴퓨터공학을 전공한 개발자입니다. 저는 [신기술]을 습득하는 데 열정을 가지고 있으며, [사내 혁신 기술 프로젝트]에 참여한 경험이 있습니다. 저의 목표는 [편리한 IT서비스]를 만드는 사람이 되는 것입니다.
 
 - 🌱 현재 저는 [LLM,NCP,Airflow,(Linux)Sell Script]를 공부하고 있습니다.
 - 👯 저는 [오프라인 커뮤니티와 해커톤 대회]에 관심이 많습니다.
 - 📫 연락 방법: [zerosugarcoke@naver.com]
+
+## 개발 프로젝트 관련 기사
+# 한국일보사 H.AI 개발
+- [한국일보](https://www.hankookilbo.com/News/Read/A2024041811450001134)
+- [한국신문방송편집인협회](http://www.editor.or.kr/bbs/board.php?bo_table=blog&wr_id=4)
+- [미디어오늘](https://www.mediatoday.co.kr/news/articleView.html?idxno=317711)
 
 ## 개발/운영 중인 웹 서비스
 - [AI 유튜브 쇼츠 영상 자동 제작](https://easybookreport.swygbro.com/#google_vignette)
