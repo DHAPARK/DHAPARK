@@ -11,7 +11,7 @@
 - 📫 연락 방법: [zerosugarcoke@naver.com]
 
 ## 개발 프로젝트 관련 기사
-# 한국일보사 H.AI 개발
+<sub>한국일보사 H.AI 개발<sub>
 - [한국일보](https://www.hankookilbo.com/News/Read/A2024041811450001134)
 - [한국신문방송편집인협회](http://www.editor.or.kr/bbs/board.php?bo_table=blog&wr_id=4)
 - [미디어오늘](https://www.mediatoday.co.kr/news/articleView.html?idxno=317711)
