@@ -2,7 +2,7 @@
 
 ## 박도현
 - (현)![image](https://github.com/DHAPARK/DHAPARK/assets/37052379/b7bbb21b-6858-48f1-bf1e-765eca3cff55) Korea Backend Dev
-- (전) 한국일보사 FullStack Dev
+- <sub>(전) 한국일보사 FullStack Dev</sub>
 
 안녕하세요! 저는 [박도현]이고, 컴퓨터공학을 전공한 개발자입니다. 저는 [신기술]을 습득하는 데 열정을 가지고 있으며, [사내 혁신 기술 프로젝트]에 참여한 경험이 있습니다. 저의 목표는 [편리한 IT서비스]를 만드는 사람이 되는 것입니다.
 
