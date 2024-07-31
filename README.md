@@ -11,7 +11,7 @@ Hello! My name is Aron, and I am a developer with a major in computer engineerin
 - 📫 Contact: [zerosugarcoke@naver.com]
 
 ## Work Experience
-<a href="https://www.hankookilbo.com/"><sub style="font-size:50px;">Hankookilbo H.AI Project Lead Developer<sub></a>
+<a href="https://www.hankookilbo.com/"><span>Hankookilbo H.AI Project Lead Developer<span></a>
 - [Hankookilbo](https://www.hankookilbo.com/News/Read/A2024041811450001134)
 - [Korea Association of Newspaper and Broadcasting Editors](http://www.editor.or.kr/bbs/board.php?bo_table=blog&wr_id=4)
 - [Media Today](https://www.mediatoday.co.kr/news/articleView.html?idxno=317711)
