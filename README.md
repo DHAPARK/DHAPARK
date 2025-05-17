@@ -17,6 +17,7 @@ Hello! My name is Aron, and I am a developer with a major in computer engineerin
 - [Media Today](https://www.mediatoday.co.kr/news/articleView.html?idxno=317711)
 
 ## Web Services Under Development/Operation
+- [BlockChain Community](https://coininfowave.com)
 - [Naver Blog](https://blog.naver.com/zerosugarcoke)
 - [PRism Team Member Evaluation and Self-PR Web Service](https://prism.swygbro.com)
 - [AI YouTube Shorts Automatic Production](https://easybookreport.swygbro.com/#google_vignette)
